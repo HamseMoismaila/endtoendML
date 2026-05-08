@@ -105,9 +105,3 @@ The automated report can be found at `outputs/dosm_ml_report.html`. Open it in a
 *   **Plotly & Matplotlib**: Visualizations
 *   **Streamlit**: Dashboard deployment
 
----
-
-## 🎓 Academic Context
-**Module**: EC3355 – Machine Learning Techniques and Computing Environment  
-**Competencies**: P5 (Problem Solving), PLO3 (Practical Skills)  
-**Developer**: [Your Name/ID]
