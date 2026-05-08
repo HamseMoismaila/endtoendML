@@ -1,6 +1,6 @@
-# 📊 EC3355 – DOSM Malaysia Labour Force ML Project
+DOSM Malaysia Labour Force ML Project
 
-An end-to-end Machine Learning project analyzing and predicting unemployment risk levels in Malaysia using historical Labour Force Survey (LFS) data. This project was developed as part of the **EC3355 – Machine Learning Techniques and Computing Environment** course.
+An end-to-end Machine Learning project analyzing and predicting unemployment risk levels in Malaysia using historical Labour Force Survey (LFS) data. This project was developed 
 
 ---
 
